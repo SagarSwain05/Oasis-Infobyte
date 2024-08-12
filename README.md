@@ -1,10 +1,10 @@
 # OASIS_INFOBYTE_INTERNSHIP
-   i had joined the vault of task as a web development intern for 1 month. Here in this internship i've done many projects like Portfolio page, Internship task page, Regd from etc. in the 4 weeks of task.
+   i had joined the OASIS INFOBYTE team as a web development intern for 1 month. Here in this internship i've done many projects like Portfolio page, Landing page, Temperature converter etc. in the 4 weeks of task.
  These projects are made with web developing language like HTML, CSS & Javascript. Creating these web pages added more experience to my frontend development work.
  Here the 4 weeks project details are given below.
 
 <details close>
-<summary>Portfolio </summary>
+<summary>Landing Page</summary>
   
 ## Overview
 
@@ -31,7 +31,7 @@ Links to Online Work: For digital portfolios, links to websites, videos, article
 
 </details>
 <details close>
-<summary>Internship Task Page</summary>
+<summary>Landing Page</summary>
   
 ## Overview
 Vault of codes has given task to make the Internship task page which contains internship offers. In this task we had created a simple page where we created the cards where the internship offers are present & other details about internships where the user can find the complete details of these. The cards are responsive & pop up when they are selected.Apply buttons are given & HTML,CSS,Javascript are used.
@@ -59,7 +59,7 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activ
 </details>
 
 <details close>
-<summary>Registration Form</summary>
+<summary>Tempreure Converter</summary>
   
 ## Overview
  In the 3rd week task we had created a simple Registration page where we created some placeholder like Name, E-mail, contact details etc. There's also the password section for the registration & user authentication. The register icon & terms condn icons are given to complete the registration. This is also responsive according to the user device.
@@ -78,35 +78,6 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activ
 6. Radio Buttons: For selecting one option from a set, like gender.
 7. Submit Button: To send the registration data to the server.
 8. Organized layout using CSS Flexbox or Grid for a clean and responsive design.
-
-
-## Technology
-
-- HTML
-- CSS
-- Java script
-
-</details>
-
-<details close>
-<summary>To-Do LIst</summary>
-  
-## Overview
- As the final week task we had created a To-Do list page where we created task bar. Here we can add the tasks and edit &delete the tasks.
-
-## Demo
-
-https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-javascript-activity-7225154715162923008-ukV2?utm_source=share&utm_medium=member_desktop
-
-## Features
-
-1. Input Field: A text input field where users can type their tasks.
-2. Add Button: A button that allows users to add the typed task to the list.
-3. Task DisplayTask List: A dynamically generated list of tasks. Each task is displayed as an individual item in the list.
-4. Styling for Tasks: CSS styles to differentiate tasks, such as different colors or fonts.
-5. Task ManagementMark as Completed: Checkbox or strike-through to mark tasks as completed. Completed tasks can be styled differently (e.g., crossed out).
-6. Edit Tasks: Ability to edit tasks after they are added to the list.
-7. Delete Tasks: A delete button/icon next to each task to remove it from the list.
 
 
 ## Technology
