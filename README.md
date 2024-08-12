@@ -2,17 +2,18 @@
    i had joined the OASIS INFOBYTE team as a web development intern for 1 month. Here in this internship i've done many projects like Portfolio page, Landing page, Temperature converter etc. in the 4 weeks of task.
  These projects are made with web developing language like HTML, CSS & Javascript. Creating these web pages added more experience to my frontend development work.
  Here the 4 weeks project details are given below.
+ 
+## Langguages_used
+- HTML
+- CSS
+- Javascript
 
 <details close>
 <summary>Landing Page</summary>
   
 ## Overview
 
-In the Portfolio repository! This project is designed to create a modern and responsive portfolio design of me as the 1st week task Internship. The portfolio is built with HTML, CSS, JavaScript. and aims to give the complete details of the person. In the porfolio you can add your experience, education, skills & other details.
-
-## Demo
-
-https://www.linkedin.com/posts/sagar-swain-b6b6b3286_vaultofcodes-activity-7215418565028380672-CW76?utm_source=share&utm_medium=member_desktop
+In this Landing page repository! This project is designed to create a modern and responsive portfolio design of me as the 1st week task Internship. The page is built with HTML, CSS, JavaScript. and aims to give the complete details of the product.
 
 ## Features
 
@@ -23,11 +24,6 @@ Links to Online Work: For digital portfolios, links to websites, videos, article
 4. Skills SectionTechnical Skills: Proficiencies in software, tools, or languages relevant to your field.Soft Skills: Interpersonal skills, teamwork, leadership, communication, etc.
 5. Educational BackgroundDegrees, certifications, and relevant coursework.Institutions attended and dates of completion.
 
-## Technology
-
-- HTML
-- CSS
-- Java script
 
 </details>
 <details close>
@@ -35,10 +31,6 @@ Links to Online Work: For digital portfolios, links to websites, videos, article
   
 ## Overview
 Vault of codes has given task to make the Internship task page which contains internship offers. In this task we had created a simple page where we created the cards where the internship offers are present & other details about internships where the user can find the complete details of these. The cards are responsive & pop up when they are selected.Apply buttons are given & HTML,CSS,Javascript are used.
-
-## Demo
-
-https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activity-7217955766169653250-vFUQ?utm_source=share&utm_medium=member_desktop
 
 
 ## Features
@@ -50,12 +42,6 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activ
 5. Apply Button: A button for each listing that leads to the detailed job description or application form.
 6. Responsive Layout: The layout should adjust fluidly to different screen sizes.
 
-## Technology
-
-- HTML
-- CSS
-- Java script
-
 </details>
 
 <details close>
@@ -63,10 +49,6 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activ
   
 ## Overview
  In the 3rd week task we had created a simple Registration page where we created some placeholder like Name, E-mail, contact details etc. There's also the password section for the registration & user authentication. The register icon & terms condn icons are given to complete the registration. This is also responsive according to the user device.
-
-## Demo
-
-https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activity-7224276163089641472-nPhd?utm_source=share&utm_medium=member_desktop
 
 ## Features
 
@@ -79,11 +61,7 @@ https://www.linkedin.com/posts/sagar-swain-b6b6b3286_html-css-vaultofcodes-activ
 7. Submit Button: To send the registration data to the server.
 8. Organized layout using CSS Flexbox or Grid for a clean and responsive design.
 
-
-## Technology
-
-- HTML
-- CSS
-- Java script
-
 </details>
+
+## Work_proof
+https://www.linkedin.com/posts/sagar-swain-b6b6b3286_oasisinfobyte-webdevelopment-internship-activity-7216474883508064256-tbBC?utm_source=share&utm_medium=member_desktop
