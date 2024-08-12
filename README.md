@@ -3,7 +3,7 @@
  These projects are made with web developing language like HTML, CSS & Javascript. Creating these web pages added more experience to my frontend development work.
  Here the 4 weeks project details are given below.
  
-## Langguages_used
+## Languages_used
 - HTML
 - CSS
 - Javascript
@@ -37,31 +37,27 @@ Oasis team has given task to make the Internship task to make a portfolio design
 
 ## Features
 
-1. Job Title: Clearly displayed for each internship offer.
-2. Short Description: A brief overview of the role, responsibilities, and required skills.
-3. Location: Where the internship will take place (e.g., Remote, New York, etc.).
-4. Application Deadline: The last date to apply for the internship.
-5. Apply Button: A button for each listing that leads to the detailed job description or application form.
-6. Responsive Layout: The layout should adjust fluidly to different screen sizes.
+1. Personal Information : Name and Contact Details: Your name, phone number, email address, and other relevant contact information.Professional Summary: A brief introduction that highlights your career goals, strengths, and what makes you unique.
+2. Resume or CVA detailed overview of your work experience, education, skills, and certifications.Key achievements and responsibilities in previous roles.
+3. Work SamplesProject Examples: Demonstrations of your best work, relevant to the job or field you’re applying for.Case Studies: Detailed descriptions of specific projects, including your role, challenges, solutions, and outcomes.
+Links to Online Work: For digital portfolios, links to websites, videos, articles, or other online content you’ve created.
+4. Skills SectionTechnical Skills: Proficiencies in software, tools, or languages relevant to your field.Soft Skills: Interpersonal skills, teamwork, leadership, communication, etc.
+5. Educational BackgroundDegrees, certifications, and relevant coursework.Institutions attended and dates of completion.
 
 </details>
 
 <details close>
-<summary>Tempreure Converter</summary>
+<summary>Temperature Converter</summary>
   
 ## Overview
- In the 3rd week task we had created a simple Registration page where we created some placeholder like Name, E-mail, contact details etc. There's also the password section for the registration & user authentication. The register icon & terms condn icons are given to complete the registration. This is also responsive according to the user device.
-
+ In the 3rd week task we had created a Temperature converter where we can the convert the temp. like degree celcius to farenhite or the farenhhite to the degree celcius. 
 ## Features
 
-1. Text Inputs: For user details like name, username, and email.
-2. Password Input: Secure password field with masked input.
-3. Confirm Password: To ensure the user enters the same password twice.
-4. Dropdown Menus: For selecting options like gender or country.
-5. Checkboxes: For terms and conditions agreement or subscribing to newsletters.
-6. Radio Buttons: For selecting one option from a set, like gender.
-7. Submit Button: To send the registration data to the server.
-8. Organized layout using CSS Flexbox or Grid for a clean and responsive design.
+1. Temperature Input: A text input field where users can enter the temperature value they want to convert.
+2. Unit Selection: Dropdown menus or radio buttons for users to select the input and output temperature units (e.g., Celsius, Fahrenheit, Kelvin).
+3. Conversion LogicJavaScript Functions: Use JavaScript to handle the conversion logic between different temperature units (Celsius, Fahrenheit, Kelvin).
+4. Error Handling: Implement checks to handle invalid inputs (e.g., non-numeric values) and provide user feedback.
+5. Real-Time ConversionAuto-Update: As the user inputs a value or changes the unit selection, the converted temperature should update in real-time without requiring a button click.
 
 </details>
 
